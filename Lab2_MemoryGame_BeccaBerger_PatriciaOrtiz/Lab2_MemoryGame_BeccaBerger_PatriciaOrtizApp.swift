@@ -2,7 +2,7 @@
 //  Lab2_MemoryGame_BeccaBerger_PatriciaOrtizApp.swift
 //  Lab2_MemoryGame_BeccaBerger_PatriciaOrtiz
 //
-//  Created by Zachary Berger on 10/6/25.
+//  Created by Becca Berger on 10/6/25.
 //
 
 import SwiftUI
